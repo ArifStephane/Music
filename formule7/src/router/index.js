@@ -7,8 +7,8 @@ import MusicView from '../views/MusicView.vue'
 
 const routes = [
   {
-    path: '/music',
-    name: 'music',
+    path: '/',
+    name: 'home',
     meta: { title: 'Music' },
     component: MusicView
   },  

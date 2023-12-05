@@ -5,6 +5,13 @@
       </transition>
     </router-view>
 </template>
+<script>
+export default {
+  // mounted() {
+  //   this.$router.push({ name: 'music' });
+  // }
+};
+</script>
 
 <style>
 @import url('assets/css/style.css');
